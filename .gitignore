@@ -1,0 +1,12 @@
+# Ignore backend dependencies and environments
+backend/node_modules/
+backend/.env
+backend/.env.local
+backend/*.log
+
+# Ignore frontend dependencies and environments
+frontend/node_modules/
+frontend/.env
+frontend/.env.local
+frontend/dist/
+frontend/build/
