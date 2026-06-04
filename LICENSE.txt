@@ -1,0 +1,5 @@
+Copyright (c) 2026 Mihir Rueben Pillay. All rights reserved.
+
+This code is provided solely for viewing, learning and review purposes (such as portfolio evaluation). 
+No permission is granted to clone, download, modify, distribute, or use this software for 
+any commercial or non-commercial purposes without explicit written consent from the author.
